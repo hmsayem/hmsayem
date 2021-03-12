@@ -3,13 +3,18 @@
    <p align=center><a href="https://github.com/hmsayem"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies:" align=center/></a></p>
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hmsayem&show_icons=true" alt="hmsayem" /> </p>
   </div>
-
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=hmsayem&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hmsayem" />
+  </a>
+</p>
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=hmsayem.hmsayem" alt="Visitors">                     
 </p>
 
+
 <p align="center">
-<a href="https://in.linkedin.com/in/hmsayem"><img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="hmsayem" height="20" width="20"/></a>
-<a href="https://fb.com/hmsayem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hmsayem" height="20" width="20" /></a>
+<a href= "https://www.linkedin.com/in/hmsayem/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
 </p>
