@@ -16,7 +16,7 @@
 <details>
   <summary><b>Recent Activity</b></summary>
   <br/>
-   <a href="https://github.com/hmsayem"><img alt="Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hmsayem&custom_title=Hossain%20Mahmud's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/hmsayem"><img alt="Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hmsayem&custom_title=Hossain's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 <br/>
